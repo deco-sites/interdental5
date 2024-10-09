@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ts-stack/markdown": "^1.5.0",
+    "daisyui": "^4.4.19"
+  },
+  "devDependencies": {
+    "tailwind-scrollbar": "^3.1.0"
+  }
+}
